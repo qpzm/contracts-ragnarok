@@ -1,4 +1,4 @@
-import { ILenderVerifier__factory } from 'build/types/factories/ILenderVerifier__factory'
+import { ILenderVerifier__factory } from 'build/types'
 import { expect } from 'chai'
 import { deployMockContract } from 'ethereum-waffle'
 import { structuredPortfolioFixture } from 'fixtures/structuredPortfolioFixture'

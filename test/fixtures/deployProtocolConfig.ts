@@ -1,4 +1,4 @@
-import { ProtocolConfig__factory } from 'build/types/factories/ProtocolConfig__factory'
+import { ProtocolConfig__factory } from 'build/types'
 import { Wallet } from 'ethers'
 import { deployBehindProxy } from 'utils/deployBehindProxy'
 

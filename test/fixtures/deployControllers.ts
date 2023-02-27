@@ -1,5 +1,4 @@
-import { DepositController__factory, WithdrawController__factory } from 'build/types'
-import { TransferController__factory } from 'build/types/factories/TransferController__factory'
+import { DepositController__factory, WithdrawController__factory, TransferController__factory } from 'build/types'
 import { Wallet } from 'ethers'
 
 export async function deployControllers(wallet: Wallet) {

@@ -1,5 +1,5 @@
 import { DepositController__factory } from 'build/types'
-import { AllowAllLenderVerifier__factory } from 'build/types/factories/AllowAllLenderVerifier__factory'
+import { AllowAllLenderVerifier__factory } from 'build/types'
 import { Wallet } from 'ethers'
 
 export async function depositControllerFixture([wallet]: Wallet[]) {

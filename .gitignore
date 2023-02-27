@@ -1,2 +1,5 @@
 deployments-test.json
 .certora_internal
+build/
+node_modules/
+pnpm-lock.yaml
